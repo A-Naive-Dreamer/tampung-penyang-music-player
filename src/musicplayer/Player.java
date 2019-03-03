@@ -52,7 +52,7 @@ public class Player extends javax.swing.JFrame {
     public Player() {
         this.initComponents();
 
-        this.setLocation(new Point(((Player.SCREEN_WIDTH - 705) / 2), ((Player.SCREEN_HEIGHT - 181) / 2)));
+        this.setLocation(new Point(((Player.SCREEN_WIDTH - 981) / 2), ((Player.SCREEN_HEIGHT - 181) / 2)));
 
         this.fileManager.setVisible(false);
         this.fileManager.setFileFilter(Player.EXT);
