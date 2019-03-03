@@ -12,12 +12,12 @@ Music player created using Java.
    - [Requirements](#requirements)
    - [Installation](#installation)
    - [Usage](#usage)
-     - [Stable Version Usage](#stable-version-usage)
      - [Development Version Usage](#development-version-usage)
+     - [Stable Version Usage](#stable-version-usage)
    - [Previews](#previews)
      - [Screenshots](#screenshots)
-       - [Stable Version Screenshots](#stable-version-screenshots)
        - [Development Version Screenshots](#development-version-screenshots)
+       - [Stable Version Screenshots](#stable-version-screenshots)
 4. [Credits](#credits)
 5. [License](#license)
 
@@ -54,11 +54,11 @@ Music player created using Java.
 
 ##### Development Version Screenshots
 
-1. ![Development Version Screenshot](https://justanaivedreamer.files.wordpress.com/2019/03/capture1.png)
+![Development Version Screenshot](https://justanaivedreamer.files.wordpress.com/2019/03/capture1.png)
 
 ##### Stable Version Screenshots
 
-1. ![Development Version Screenshot](https://justanaivedreamer.files.wordpress.com/2019/03/capture2.png)
+![Development Version Screenshot](https://justanaivedreamer.files.wordpress.com/2019/03/capture2.png)
 
 ## Credits
 
