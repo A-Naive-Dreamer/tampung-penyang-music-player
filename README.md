@@ -12,11 +12,11 @@ Music player build using Java.
    - [Requirements](#requirements)
    - [Installation](#installation)
    - [Usage](#usage)
-     1. [Development Version Usage](#development-version-usage)
-     2. [Stable Version Usage](#stable-version-usage)
+     1. [Development Version Usage](#1-development-version-usage)
+     2. [Stable Version Usage](#2-stable-version-usage)
    - [Screenshots](#screenshots)
-     1. [Development Version Screenshots](#development-version-screenshots)
-     2. [Stable Version Screenshots](#stable-version-screenshots)
+     1. [Development Version Screenshots](#1-development-version-screenshots)
+     2. [Stable Version Screenshots](#2-stable-version-screenshots)
 4. [Credits](#credits)
 5. [License](#license)
 
@@ -35,13 +35,13 @@ Music player build using Java.
 
 ### Usage
 
-#### Development Version Usage
+#### 1. Development Version Usage
 
 1. Open NetBeans IDE.
 2. Open project ```tampung-penyang-music-player```.
 3. Run project.
 
-#### Stable Version Usage
+#### 2. Stable Version Usage
 
 1. Open folder ```tampung-penyang-music-player```.
 2. Go to folder ```dist```.
@@ -49,11 +49,11 @@ Music player build using Java.
 
 ### Screenshots
 
-#### Development Version Screenshots
+#### 1. Development Version Screenshots
 
 ![Development Version Screenshot](https://justanaivedreamer.files.wordpress.com/2019/03/capture1.png)
 
-#### Stable Version Screenshots
+#### 2. Stable Version Screenshots
 
 ![Development Version Screenshot](https://justanaivedreamer.files.wordpress.com/2019/03/capture2.png)
 
