@@ -2,7 +2,7 @@
 
 ## Description
 
-Music player created using Java.
+Music player build using Java.
 
 ## Table Of Contents
 
@@ -12,12 +12,11 @@ Music player created using Java.
    - [Requirements](#requirements)
    - [Installation](#installation)
    - [Usage](#usage)
-     - [Development Version Usage](#development-version-usage)
-     - [Stable Version Usage](#stable-version-usage)
-   - [Previews](#previews)
-     - [Screenshots](#screenshots)
-       - [Development Version Screenshots](#development-version-screenshots)
-       - [Stable Version Screenshots](#stable-version-screenshots)
+     1. [Development Version Usage](#development-version-usage)
+     2. [Stable Version Usage](#stable-version-usage)
+   - [Screenshots](#screenshots)
+     1. [Development Version Screenshots](#development-version-screenshots)
+     2. [Stable Version Screenshots](#stable-version-screenshots)
 4. [Credits](#credits)
 5. [License](#license)
 
@@ -48,15 +47,13 @@ Music player created using Java.
 2. Go to folder ```dist```.
 3. Click at file ```musicPlayer.jar```.
 
-### Previews
+### Screenshots
 
-#### Screenshots
-
-##### Development Version Screenshots
+#### Development Version Screenshots
 
 ![Development Version Screenshot](https://justanaivedreamer.files.wordpress.com/2019/03/capture1.png)
 
-##### Stable Version Screenshots
+#### Stable Version Screenshots
 
 ![Development Version Screenshot](https://justanaivedreamer.files.wordpress.com/2019/03/capture2.png)
 
